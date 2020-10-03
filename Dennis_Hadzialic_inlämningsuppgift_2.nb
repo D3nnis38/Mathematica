@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    327772,       7165]
-NotebookOptionsPosition[    302372,       6701]
-NotebookOutlinePosition[    309204,       6869]
-CellTagsIndexPosition[    309161,       6866]
+NotebookDataLength[    327840,       7166]
+NotebookOptionsPosition[    302440,       6702]
+NotebookOutlinePosition[    309272,       6870]
+CellTagsIndexPosition[    309229,       6867]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -6605,10 +6605,10 @@ Cell[TextData[StyleBox["5. Vad har val av modell f\[ODoubleDot]r betydelse?", \
 
 Cell["\<\
 
-Vilken modell man v\[ADoubleDot]ljer p\[ARing]verkar vilken hur tillv\
-\[ADoubleDot]xten ser ut i framtiden f\[ODoubleDot]r de olika energislagen. \
-Om man v\[ADoubleDot]ljer en exponentiell modell s\[ARing] kommer \
-energislaget att \[ODoubleDot]ka exponetiell mer/mindre de kommande \
+Vilken modell man v\[ADoubleDot]ljer p\[ARing]verkar hur \
+tillv\[ADoubleDot]xten ser ut i framtiden f\[ODoubleDot]r de olika \
+energislagen. Om man v\[ADoubleDot]ljer en exponentiell modell s\[ARing] \
+kommer energislaget att \[ODoubleDot]ka exponetiell mer/mindre de kommande \
 \[ARing]ren. Ifall det \[ADoubleDot]r en linj\[ADoubleDot]r modell som till\
 \[ADoubleDot]mpas s\[ARing] kommer det vara en linj\[ADoubleDot]r tillv\
 \[ADoubleDot]xt f\[ODoubleDot]r framtiden. Detta kan ses med exemplen \
@@ -6620,8 +6620,9 @@ naturgas j\[ADoubleDot]mtemot solenergi. De anv\[ADoubleDot]nder sig av tv\
    3.810612780370446*^9}, 3.8106136082786407`*^9, {3.810614250717175*^9, 
    3.810614481247979*^9}, {3.810615803539797*^9, 3.810615885290721*^9}, {
    3.810700140206951*^9, 3.810700157436697*^9}, {3.8107002265112267`*^9, 
-   3.810700313432176*^9}, {3.8107003491118298`*^9, 
-   3.8107004129682703`*^9}},ExpressionUUID->"8068fa9e-bf8e-43d6-b9b0-\
+   3.810700313432176*^9}, {3.8107003491118298`*^9, 3.8107004129682703`*^9}, {
+   3.810708391557087*^9, 
+   3.8107083936681347`*^9}},ExpressionUUID->"8068fa9e-bf8e-43d6-b9b0-\
 df2074caa527"],
 
 Cell[TextData[StyleBox["6.  \[CapitalADoubleDot]r ovanst\[ARing]ende f\
@@ -6674,7 +6675,7 @@ Cell[TextData[StyleBox["7.  Vilka felk\[ADoubleDot]llor finns? \n", \
 Cell["\<\
 De felk\[ADoubleDot]llor som finns \[ADoubleDot]r dels att exponentiella \
 grafer inte stannar och \[ADoubleDot]r inte alls en r\[ADoubleDot]tt \
-reperesentation p\[ARing] hur verkligheeten ser ut att vara. Sen andra felk\
+reperesentation p\[ARing] hur verkligheten ser ut att vara. Sen andra felk\
 \[ADoubleDot]llor med detta \[ADoubleDot]r n\[ARing]got som mycket \
 datanalyser st\[ODoubleDot]ter p\[ARing]; att man inte tar till \
 h\[ADoubleDot]nsyns andra riskfaktorer utan endast kollar p\[ARing] datan som \
@@ -6685,8 +6686,8 @@ p\[ARing]verkar vad som kommer att ha st\[ODoubleDot]rre/mindre tillv\
 \[ADoubleDot]xt \[ADoubleDot]n andra. \
 \>", "Text",
  CellChangeTimes->{{3.810701094589796*^9, 3.810701125908194*^9}, {
-  3.8107012036220703`*^9, 
-  3.81070136893396*^9}},ExpressionUUID->"2045c9d4-de42-4e74-bf87-\
+   3.8107012036220703`*^9, 3.81070136893396*^9}, 
+   3.810708377817306*^9},ExpressionUUID->"2045c9d4-de42-4e74-bf87-\
 7f8dc133bd93"],
 
 Cell["\<\
@@ -7160,13 +7161,13 @@ Cell[296800, 6586, 188, 2, 52, "Output",ExpressionUUID->"d1903087-7d01-4edb-ba4b
 }, Open  ]],
 Cell[297003, 6591, 243, 6, 46, "Text",ExpressionUUID->"0bb882b9-1c07-4751-8ccd-d7c7a4a97ffc"],
 Cell[297249, 6599, 256, 4, 54, "Text",ExpressionUUID->"5fb6755d-560f-47b1-b0f4-5df70de72b2e"],
-Cell[297508, 6605, 1135, 19, 156, "Text",ExpressionUUID->"8068fa9e-bf8e-43d6-b9b0-df2074caa527"],
-Cell[298646, 6626, 356, 6, 90, "Text",ExpressionUUID->"7a5d44d0-b08d-43fc-ba36-b8d8c8122548"],
-Cell[299005, 6634, 1696, 26, 211, "Text",ExpressionUUID->"e9d1a827-435a-483e-8a79-6ba6248fbe05"],
-Cell[300704, 6662, 164, 3, 46, "Text",ExpressionUUID->"4c4269ff-8a0c-40d7-ba93-efd5361019c9"],
-Cell[300871, 6667, 221, 4, 90, "Text",ExpressionUUID->"6b2c8b14-c9e2-4e3f-bbdc-2ac3bf7e5bf9"],
-Cell[301095, 6673, 958, 16, 129, "Text",ExpressionUUID->"2045c9d4-de42-4e74-bf87-7f8dc133bd93"],
-Cell[302056, 6691, 312, 8, 129, "Text",ExpressionUUID->"8b019049-eaf7-4828-85f5-13e117f10da1"]
+Cell[297508, 6605, 1180, 20, 156, "Text",ExpressionUUID->"8068fa9e-bf8e-43d6-b9b0-df2074caa527"],
+Cell[298691, 6627, 356, 6, 90, "Text",ExpressionUUID->"7a5d44d0-b08d-43fc-ba36-b8d8c8122548"],
+Cell[299050, 6635, 1696, 26, 211, "Text",ExpressionUUID->"e9d1a827-435a-483e-8a79-6ba6248fbe05"],
+Cell[300749, 6663, 164, 3, 46, "Text",ExpressionUUID->"4c4269ff-8a0c-40d7-ba93-efd5361019c9"],
+Cell[300916, 6668, 221, 4, 90, "Text",ExpressionUUID->"6b2c8b14-c9e2-4e3f-bbdc-2ac3bf7e5bf9"],
+Cell[301140, 6674, 981, 16, 129, "Text",ExpressionUUID->"2045c9d4-de42-4e74-bf87-7f8dc133bd93"],
+Cell[302124, 6692, 312, 8, 129, "Text",ExpressionUUID->"8b019049-eaf7-4828-85f5-13e117f10da1"]
 }
 ]
 *)
