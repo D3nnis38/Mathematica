@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    331606,       7232]
-NotebookOptionsPosition[    306331,       6770]
-NotebookOutlinePosition[    313140,       6937]
-CellTagsIndexPosition[    313097,       6934]
+NotebookDataLength[    332111,       7239]
+NotebookOptionsPosition[    306835,       6777]
+NotebookOutlinePosition[    313644,       6944]
+CellTagsIndexPosition[    313601,       6941]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -6671,20 +6671,21 @@ press p\[ARing] att skapa fossilfria alternativ snabbare \[ADoubleDot]n f\
 \[ODoubleDot]rv\[ADoubleDot]ntat. 
 
 Eftersom Sverige har som m\[ARing]l att minska sina utsl\[ADoubleDot]pp med \
-70% till \[ARing]r 2030 (se k\[ADoubleDot]lla) s\[ARing] skulle detta betyda \
-att denna analys \[ADoubleDot]r lite v\[ADoubleDot]l optimistisk d\[ARing] f\
-\[ARing] l\[ADoubleDot]nder vill och kan minska lika mycket som Sverige. 
+70% till \[ARing]r 2030 (se k\[ADoubleDot]lla 1) s\[ARing] skulle detta \
+betyda att denna analys \[ADoubleDot]r lite v\[ADoubleDot]l optimistisk d\
+\[ARing] f\[ARing] l\[ADoubleDot]nder vill och kan minska lika mycket som \
+Sverige. 
 Problemet \[ADoubleDot]r ju \[ADoubleDot]ven att exponentiella funktioner \
 inte stannar eller \[OpenCurlyDoubleQuote]planar ut\[CloseCurlyDoubleQuote] \
 sig utan forts\[ADoubleDot]tter att \[ODoubleDot]ka/minska exponentiellt mer \
 i o\[ADoubleDot]ndligheten. D\[ADoubleDot]rf\[ODoubleDot]r g\[ARing]r det \
 inte att lita helt och h\[ARing]llet p\[ARing] analysen som gjorts ovan.
  
- En l\[ODoubleDot]sning skulle kunna vara att funktionen \
+En l\[ODoubleDot]sning skulle kunna vara att funktionen som \
 begr\[ADoubleDot]nsas under ett visst intervall och att den \[ADoubleDot]r ej \
-giltig utanf\[ODoubleDot]r intervallet, men \[ARing] andra sidan problemet \
-med denna l\[ODoubleDot]sning \[ADoubleDot]r ju hur l\[ADoubleDot]nge \
-\[ADoubleDot]r tillv\[ADoubleDot]xten exponentiellt?  
+giltig utanf\[ODoubleDot]r intervallet, men \[ARing] andra sidan kommer \
+problemet med denna l\[ODoubleDot]sning vara hur l\[ADoubleDot]nge tillv\
+\[ADoubleDot]xten \[ADoubleDot]r exponentiell?  
 Behovet av energi \[ADoubleDot]r en avg\[ODoubleDot]rande faktor av dess \
 utveckling, med dessa modeller uppskattas det att Totala energikonsumtion av \
 hela v\[ADoubleDot]rlden kommer vara lika med Energin som produceras av solen \
@@ -6694,24 +6695,26 @@ FindRoot[eSol[t] == eTotalt[t], {t, 1990, 2050}]
 
  {t--> 2036.64}
 
-sedan s\[ARing] finns det alltf\[ODoubleDot]r m\[ARing]nga faktorer som inte \
-\[ADoubleDot]r m\[ODoubleDot]jliga att f\[ODoubleDot]rutse s\[ARing]som hur m\
-\[ARing]nga som verkligen vill byta till solenergi eftersom det \
-\[ADoubleDot]r dyrt att installera? men \[ADoubleDot]ven Hur m\[ARing]nga som \
-vill att vi ska beh\[ARing]lla andra energik\[ADoubleDot]llor eftersom de tj\
-\[ADoubleDot]nar p\[ARing] det.
+Sedan s\[ARing] finns det alltf\[ODoubleDot]r m\[ARing]nga faktorer som inte \
+\[ADoubleDot]r m\[ODoubleDot]jliga att f\[ODoubleDot]rutse s\[ARing] som hur \
+m\[ARing]nga som verkligen vill byta till solenergi eftersom det kan ses som \
+dyrt att installera, men \[ADoubleDot]ven hur m\[ARing]nga som vill att vi \
+ska beh\[ARing]lla andra energik\[ADoubleDot]llor eftersom de \
+tj\[ADoubleDot]nar p\[ARing] det.
 Ett exempel p\[ARing] hur lagar och enskilda personer kan ha en stark p\
-\[ARing]verkan \[ADoubleDot]r hur Trump (USA President) gick ut \
-\[OpenCurlyDoubleQuote]Paris Agremment\[CloseCurlyDoubleQuote], ett avtal som \
-siktar p\[ARing] att minska utsl\[ADoubleDot]pp av v\[ADoubleDot]xt hus \
-gasar.  
-USA st\[ARing]r f\[ODoubleDot]r 15% av allt v\[ADoubleDot]xthusgasutsl\
-\[ADoubleDot]pp \[ARing]r 2020 (se k\[ADoubleDot]lla). 
+\[ARing]verkan \[ADoubleDot]r hur Trump (USA\[CloseCurlyQuote]s president) \
+gick ut \[OpenCurlyDoubleQuote]Paris Agremment\[CloseCurlyDoubleQuote], ett \
+avtal som siktar p\[ARing] att minska utsl\[ADoubleDot]pp av \
+v\[ADoubleDot]xthus-gaser.  
+USA st\[ARing]r f\[ODoubleDot]r 15% av all v\[ADoubleDot]xthusgasutsl\
+\[ADoubleDot]pp \[ARing]r 2020 (se k\[ADoubleDot]lla 2 och 3). 
 
 Po\[ADoubleDot]ngen \[ADoubleDot]r att det finns alltf\[ODoubleDot]r f\
 \[ODoubleDot]r m\[ARing]nga faktorer som g\[ODoubleDot]r att denna \
-matematiska modell \[ADoubleDot]r giltig inte ens f\[ODoubleDot]r att \
-uppskatta energi konsumtion/produktion \[ARing]r 2030.
+matematiska modell blir ogiltig f\[ODoubleDot]r att uppskatta energi \
+konsumtion/produktion \[ARing]r 2030 exakt, utan att man mer kan f\[ARing] en \
+\[OpenCurlyDoubleQuote]ungef\[ADoubleDot]rlig\[CloseCurlyDoubleQuote] bild p\
+\[ARing] hur framtiden kan se ut i dessa fr\[ARing]gor.
 \
 \>", "Text",
  CellChangeTimes->{{3.810700418385419*^9, 3.8107004203521423`*^9}, {
@@ -6722,8 +6725,11 @@ uppskatta energi konsumtion/produktion \[ARing]r 2030.
   3.8108767372268267`*^9, 3.8108769956370068`*^9}, {3.810879348584511*^9, 
   3.810879361589238*^9}, {3.810879450399973*^9, 3.810879513168062*^9}, {
   3.8108795476449347`*^9, 3.810879550464882*^9}, {3.8108796005329723`*^9, 
-  3.81087960676099*^9}, {3.810879738536829*^9, 
-  3.810879752071219*^9}},ExpressionUUID->"e9d1a827-435a-483e-8a79-\
+  3.81087960676099*^9}, {3.810879738536829*^9, 3.810879752071219*^9}, {
+  3.810881125637685*^9, 3.81088119765273*^9}, {3.810881487891983*^9, 
+  3.810881487972485*^9}, {3.810881613924677*^9, 3.810881696851364*^9}, {
+  3.8108817945798283`*^9, 3.810881831476782*^9}, {3.8108818881905518`*^9, 
+  3.8108818936780043`*^9}},ExpressionUUID->"e9d1a827-435a-483e-8a79-\
 6ba6248fbe05"],
 
 Cell[TextData[StyleBox["7.  Vilka felk\[ADoubleDot]llor finns? \n", \
@@ -6741,31 +6747,32 @@ datanalyser st\[ODoubleDot]ter p\[ARing]; att man inte tar till \
 h\[ADoubleDot]nsyns andra riskfaktorer utan endast kollar p\[ARing] datan som \
 ges. Som jag n\[ADoubleDot]mnde ovan kan lagar vara n\[ARing]got som \
 p\[ARing]verkar framtiden eller att priser f\[ODoubleDot]r \
-tillg\[ADoubleDot]ngligheten f\[ODoubleDot]r olika eenergik\[ADoubleDot]llor \
-p\[ARing]verkar vad som kommer att ha st\[ODoubleDot]rre/mindre tillv\
+tillg\[ADoubleDot]ngligheten f\[ODoubleDot]r olika energik\[ADoubleDot]llor p\
+\[ARing]verkar vad som kommer att ha st\[ODoubleDot]rre/mindre tillv\
 \[ADoubleDot]xt \[ADoubleDot]n andra. \
 \>", "Text",
  CellChangeTimes->{{3.810701094589796*^9, 3.810701125908194*^9}, {
-   3.8107012036220703`*^9, 3.81070136893396*^9}, 
-   3.810708377817306*^9},ExpressionUUID->"2045c9d4-de42-4e74-bf87-\
+   3.8107012036220703`*^9, 3.81070136893396*^9}, 3.810708377817306*^9, 
+   3.8108817242743387`*^9},ExpressionUUID->"2045c9d4-de42-4e74-bf87-\
 7f8dc133bd93"],
 
 Cell["\<\
 K\[ADoubleDot]llor : 
 
-- https : // www.regionorebrolan.se/sv/Regional - utveckling/Energi - klimat \
-- och - miljo1/Persontransporter/Fordon - och - drivmedel/
+1 - https : // www.regionorebrolan.se/sv/Regional - utveckling/Energi - \
+klimat - och - miljo1/Persontransporter/Fordon - och - drivmedel/
 
--https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country
+2 - https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#\
+Country
 
--https://www.epa.gov/sites/production/files/2020-04/documents/us-ghg-\
+3 - https://www.epa.gov/sites/production/files/2020-04/documents/us-ghg-\
 inventory-2020-main-text.pdf
 
 \
 \>", "Text",
  CellChangeTimes->{{3.810701048849244*^9, 3.8107010798849897`*^9}, {
-  3.810879643845127*^9, 
-  3.8108796530361347`*^9}},ExpressionUUID->"8b019049-eaf7-4828-85f5-\
+  3.810879643845127*^9, 3.8108796530361347`*^9}, {3.810881897452353*^9, 
+  3.810881923804308*^9}},ExpressionUUID->"8b019049-eaf7-4828-85f5-\
 13e117f10da1"]
 },
 CellGrouping->Manual,
@@ -6991,21 +6998,21 @@ Cell[32545, 881, 448, 8, 34, "Output",ExpressionUUID->"619a5b6a-0bf1-4e32-8eed-5
 }, Open  ]],
 Cell[33008, 892, 486, 10, 30, "Input",ExpressionUUID->"f2673285-1ce3-4424-a98f-c6dd3017752d"],
 Cell[CellGroupData[{
-Cell[33519, 906, 720, 16, 52, "Input",ExpressionUUID->"693b87ac-3ca1-4487-b14d-fbf33dc217c9"],
-Cell[34242, 924, 3659, 79, 234, "Output",ExpressionUUID->"aa590925-ebda-473c-b076-0ce2da65f0d0"]
+Cell[33519, 906, 720, 16, 30, "Input",ExpressionUUID->"693b87ac-3ca1-4487-b14d-fbf33dc217c9"],
+Cell[34242, 924, 3659, 79, 235, "Output",ExpressionUUID->"aa590925-ebda-473c-b076-0ce2da65f0d0"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[37938, 1008, 290, 5, 30, "Input",ExpressionUUID->"e7b8169f-6ee9-4e78-96f2-1279c106e569"],
-Cell[38231, 1015, 4282, 90, 234, "Output",ExpressionUUID->"3c3dc148-be90-426f-950c-065e29ffc5b3"]
+Cell[38231, 1015, 4282, 90, 235, "Output",ExpressionUUID->"3c3dc148-be90-426f-950c-065e29ffc5b3"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[42550, 1110, 206, 3, 30, "Input",ExpressionUUID->"d7322b35-aafd-4952-9d14-9210c0b87950"],
 Cell[42759, 1115, 260, 3, 34, "Output",ExpressionUUID->"d4e98d71-cc09-4774-9fe9-53e9449ecb3e"]
 }, Open  ]],
-Cell[43034, 1121, 357, 6, 58, "Subtitle",ExpressionUUID->"ee14f3ba-ea27-428b-ad92-9c39cf091a8f"],
+Cell[43034, 1121, 357, 6, 59, "Subtitle",ExpressionUUID->"ee14f3ba-ea27-428b-ad92-9c39cf091a8f"],
 Cell[CellGroupData[{
 Cell[43416, 1131, 566, 11, 30, "Input",ExpressionUUID->"3052f15c-9f38-40f7-b14a-a35e814a77ba"],
-Cell[43985, 1144, 2060, 49, 245, "Output",ExpressionUUID->"6d7e4395-2e91-4b2b-811a-9552d42ec136"]
+Cell[43985, 1144, 2060, 49, 246, "Output",ExpressionUUID->"6d7e4395-2e91-4b2b-811a-9552d42ec136"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[46082, 1198, 928, 22, 30, "Input",ExpressionUUID->"ce6c1f0d-8db6-4dc5-bbe2-d38700268d31"],
@@ -7014,16 +7021,16 @@ Cell[47013, 1222, 427, 8, 34, "Output",ExpressionUUID->"237146d4-dd27-475b-ab69-
 Cell[47455, 1233, 936, 17, 30, "Input",ExpressionUUID->"a2e3692d-3261-4fd9-8942-c984f70854d1"],
 Cell[CellGroupData[{
 Cell[48416, 1254, 758, 16, 30, "Input",ExpressionUUID->"5634a50a-5e84-4865-9994-4416b3a7f4e0"],
-Cell[49177, 1272, 12254, 220, 230, "Output",ExpressionUUID->"9b7d7069-1643-4012-bcb2-c165b6d757fa"]
+Cell[49177, 1272, 12254, 220, 233, "Output",ExpressionUUID->"9b7d7069-1643-4012-bcb2-c165b6d757fa"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[61468, 1497, 464, 7, 30, "Input",ExpressionUUID->"b91796c1-69a9-42b0-8e4d-2f5d9c4efbd9"],
-Cell[61935, 1506, 12860, 230, 230, "Output",ExpressionUUID->"b5a88f60-2bd5-44fb-808d-ebb226bae3cf"]
+Cell[61935, 1506, 12860, 230, 233, "Output",ExpressionUUID->"b5a88f60-2bd5-44fb-808d-ebb226bae3cf"]
 }, Open  ]],
-Cell[74810, 1739, 312, 6, 58, "Subtitle",ExpressionUUID->"f94bf0b3-3a9a-41ca-bfdf-2818fe4f4738"],
+Cell[74810, 1739, 312, 6, 59, "Subtitle",ExpressionUUID->"f94bf0b3-3a9a-41ca-bfdf-2818fe4f4738"],
 Cell[CellGroupData[{
 Cell[75147, 1749, 469, 10, 30, "Input",ExpressionUUID->"71ea1d33-ff7d-4ef8-a438-d26b439919f3"],
-Cell[75619, 1761, 2015, 49, 245, "Output",ExpressionUUID->"8dc49261-999b-465b-b652-7f45b1ffdb62"]
+Cell[75619, 1761, 2015, 49, 246, "Output",ExpressionUUID->"8dc49261-999b-465b-b652-7f45b1ffdb62"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[77671, 1815, 760, 20, 30, "Input",ExpressionUUID->"6b435999-2379-4eec-8b5d-ff0ce9d4fb63"],
@@ -7032,16 +7039,16 @@ Cell[78434, 1837, 399, 7, 34, "Output",ExpressionUUID->"23f3673a-ae42-499d-8cd5-
 Cell[78848, 1847, 415, 10, 30, "Input",ExpressionUUID->"025cb63a-23fb-4d10-a4fc-0aef1a394199"],
 Cell[CellGroupData[{
 Cell[79288, 1861, 575, 13, 30, "Input",ExpressionUUID->"2825a702-5835-4f32-8169-2cbd384f6c30"],
-Cell[79866, 1876, 8295, 156, 234, "Output",ExpressionUUID->"a0672916-afc4-4cd6-ace3-e724a154243e"]
+Cell[79866, 1876, 8295, 156, 235, "Output",ExpressionUUID->"a0672916-afc4-4cd6-ace3-e724a154243e"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[88198, 2037, 245, 4, 30, "Input",ExpressionUUID->"a21aa60c-80a2-4021-b749-515d5f9cd601"],
-Cell[88446, 2043, 8899, 166, 234, "Output",ExpressionUUID->"dd915793-25b0-4dff-8dc7-20599935e173"]
+Cell[88446, 2043, 8899, 166, 235, "Output",ExpressionUUID->"dd915793-25b0-4dff-8dc7-20599935e173"]
 }, Open  ]],
-Cell[97360, 2212, 313, 6, 58, "Subtitle",ExpressionUUID->"d39d173e-74ec-428c-89fa-f037d843ad25"],
+Cell[97360, 2212, 313, 6, 59, "Subtitle",ExpressionUUID->"d39d173e-74ec-428c-89fa-f037d843ad25"],
 Cell[CellGroupData[{
 Cell[97698, 2222, 429, 9, 30, "Input",ExpressionUUID->"f4974fcc-2d99-40c1-bac3-9a3ed759600c"],
-Cell[98130, 2233, 2029, 49, 239, "Output",ExpressionUUID->"6ca51938-35fc-4537-8f4f-537eea620452"]
+Cell[98130, 2233, 2029, 49, 240, "Output",ExpressionUUID->"6ca51938-35fc-4537-8f4f-537eea620452"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[100196, 2287, 660, 18, 30, "Input",ExpressionUUID->"6009e661-b21a-49c4-b0de-dc744fcf8171"],
@@ -7050,38 +7057,38 @@ Cell[100859, 2307, 344, 6, 34, "Output",ExpressionUUID->"241fd7c3-a56f-432c-8e2c
 Cell[101218, 2316, 408, 9, 30, "Input",ExpressionUUID->"8aa1f6f7-75fa-4db0-a613-b75fb6baa7a5"],
 Cell[CellGroupData[{
 Cell[101651, 2329, 534, 12, 30, "Input",ExpressionUUID->"c0bdad98-7351-4f73-b93a-a9147ba30eb3"],
-Cell[102188, 2343, 3664, 79, 239, "Output",ExpressionUUID->"100bef38-1f71-4f82-a8a6-3725e28a4301"]
+Cell[102188, 2343, 3664, 79, 240, "Output",ExpressionUUID->"100bef38-1f71-4f82-a8a6-3725e28a4301"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[105889, 2427, 259, 4, 30, "Input",ExpressionUUID->"0afd4418-2241-4a59-adb3-fe6d039495c2"],
-Cell[106151, 2433, 4266, 89, 239, "Output",ExpressionUUID->"8a75bb64-e18d-4cf9-9d95-f9ba98a71415"]
+Cell[106151, 2433, 4266, 89, 240, "Output",ExpressionUUID->"8a75bb64-e18d-4cf9-9d95-f9ba98a71415"]
 }, Open  ]],
-Cell[110432, 2525, 355, 7, 58, "Subtitle",ExpressionUUID->"d8ff31e8-9ff6-4a7a-8467-dd090e386343"],
+Cell[110432, 2525, 355, 7, 59, "Subtitle",ExpressionUUID->"d8ff31e8-9ff6-4a7a-8467-dd090e386343"],
 Cell[CellGroupData[{
 Cell[110812, 2536, 438, 9, 30, "Input",ExpressionUUID->"8eda40a6-6f28-45fa-88db-e8d98b6c7476"],
-Cell[111253, 2547, 1985, 48, 245, "Output",ExpressionUUID->"7f97b6fe-00b0-4dc5-87b2-43afbfc6ca45"]
+Cell[111253, 2547, 1985, 48, 246, "Output",ExpressionUUID->"7f97b6fe-00b0-4dc5-87b2-43afbfc6ca45"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[113275, 2600, 743, 20, 52, "Input",ExpressionUUID->"2884ba40-5bb4-4efb-86e3-203db4cb7aa9"],
+Cell[113275, 2600, 743, 20, 30, "Input",ExpressionUUID->"2884ba40-5bb4-4efb-86e3-203db4cb7aa9"],
 Cell[114021, 2622, 440, 7, 34, "Output",ExpressionUUID->"67a5c1db-9c01-4e4c-9688-e97b9a348148"]
 }, Open  ]],
 Cell[114476, 2632, 595, 12, 30, "Input",ExpressionUUID->"86fa1e09-38c8-4930-b51c-cfd14ffea6f0"],
 Cell[CellGroupData[{
-Cell[115096, 2648, 624, 13, 52, "Input",ExpressionUUID->"2b16e555-3c3d-45f1-b2dd-b5a058a10be5"],
-Cell[115723, 2663, 3731, 80, 239, "Output",ExpressionUUID->"0e320bd1-b828-406a-9575-270fce9b6472"]
+Cell[115096, 2648, 624, 13, 30, "Input",ExpressionUUID->"2b16e555-3c3d-45f1-b2dd-b5a058a10be5"],
+Cell[115723, 2663, 3731, 80, 240, "Output",ExpressionUUID->"0e320bd1-b828-406a-9575-270fce9b6472"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[119491, 2748, 313, 5, 30, "Input",ExpressionUUID->"52f756ba-448a-4cec-995a-151d665885d3"],
-Cell[119807, 2755, 4212, 88, 239, "Output",ExpressionUUID->"8a9230cd-2cfd-4136-95ec-12c3786a0c94"]
+Cell[119807, 2755, 4212, 88, 240, "Output",ExpressionUUID->"8a9230cd-2cfd-4136-95ec-12c3786a0c94"]
 }, Open  ]],
-Cell[124034, 2846, 330, 6, 58, "Subtitle",ExpressionUUID->"ee2c448f-7492-43d0-a7f0-41c7680ac0bb"],
+Cell[124034, 2846, 330, 6, 59, "Subtitle",ExpressionUUID->"ee2c448f-7492-43d0-a7f0-41c7680ac0bb"],
 Cell[CellGroupData[{
 Cell[124389, 2856, 479, 10, 30, "Input",ExpressionUUID->"fb5b7f73-6e45-4c0b-bd2f-e9e42833517c"],
-Cell[124871, 2868, 1984, 48, 237, "Output",ExpressionUUID->"215bda37-01ce-4ea5-9893-39180a524894"]
+Cell[124871, 2868, 1984, 48, 239, "Output",ExpressionUUID->"215bda37-01ce-4ea5-9893-39180a524894"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[126892, 2921, 304, 6, 30, "Input",ExpressionUUID->"3545c75b-a27a-460e-99fc-ec99cb4584c8"],
-Cell[127199, 2929, 1623, 42, 97, "Output",ExpressionUUID->"4352b56c-f9ea-4ad6-b52a-5226127c7662"]
+Cell[127199, 2929, 1623, 42, 56, "Output",ExpressionUUID->"4352b56c-f9ea-4ad6-b52a-5226127c7662"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[128859, 2976, 723, 18, 30, "Input",ExpressionUUID->"ddd64e39-6ad7-4fd4-ae34-ff3c6dead539"],
@@ -7230,10 +7237,10 @@ Cell[298605, 6617, 243, 6, 31, "Text",ExpressionUUID->"0bb882b9-1c07-4751-8ccd-d
 Cell[298851, 6625, 256, 4, 36, "Text",ExpressionUUID->"5fb6755d-560f-47b1-b0f4-5df70de72b2e"],
 Cell[299110, 6631, 1226, 20, 69, "Text",ExpressionUUID->"8068fa9e-bf8e-43d6-b9b0-df2074caa527"],
 Cell[300339, 6653, 356, 6, 60, "Text",ExpressionUUID->"7a5d44d0-b08d-43fc-ba36-b8d8c8122548"],
-Cell[300698, 6661, 3872, 65, 411, "Text",ExpressionUUID->"e9d1a827-435a-483e-8a79-6ba6248fbe05"],
-Cell[304573, 6728, 221, 4, 60, "Text",ExpressionUUID->"6b2c8b14-c9e2-4e3f-bbdc-2ac3bf7e5bf9"],
-Cell[304797, 6734, 981, 16, 69, "Text",ExpressionUUID->"2045c9d4-de42-4e74-bf87-7f8dc133bd93"],
-Cell[305781, 6752, 546, 16, 183, "Text",ExpressionUUID->"8b019049-eaf7-4828-85f5-13e117f10da1"]
+Cell[300698, 6661, 4297, 71, 449, "Text",ExpressionUUID->"e9d1a827-435a-483e-8a79-6ba6248fbe05"],
+Cell[304998, 6734, 221, 4, 60, "Text",ExpressionUUID->"6b2c8b14-c9e2-4e3f-bbdc-2ac3bf7e5bf9"],
+Cell[305222, 6740, 1004, 16, 69, "Text",ExpressionUUID->"2045c9d4-de42-4e74-bf87-7f8dc133bd93"],
+Cell[306229, 6758, 602, 17, 183, "Text",ExpressionUUID->"8b019049-eaf7-4828-85f5-13e117f10da1"]
 }
 ]
 *)
