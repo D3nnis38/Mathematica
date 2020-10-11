@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     74985,       1456]
-NotebookOptionsPosition[     69175,       1363]
-NotebookOutlinePosition[     69571,       1379]
-CellTagsIndexPosition[     69528,       1376]
+NotebookDataLength[     75940,       1477]
+NotebookOptionsPosition[     69982,       1382]
+NotebookOutlinePosition[     70434,       1399]
+CellTagsIndexPosition[     70391,       1396]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -57,7 +57,8 @@ a12502dddfc5"],
 
 Cell[CellGroupData[{
 
-Cell["1. Trafikfl\[ODoubleDot]de", "Subsubsection",
+Cell[TextData[StyleBox["1. Trafikfl\[ODoubleDot]de", "Subtitle"]], \
+"Subsubsection",
  CellChangeTimes->{{3.716805226837915*^9, 3.716805227135866*^9}, {
   3.716807001521596*^9, 3.7168070083544397`*^9}, {3.716807709889277*^9, 
   3.716807710528885*^9}},ExpressionUUID->"b72db7fd-eea8-464a-a8e9-\
@@ -77,7 +78,7 @@ till trafiksystemet.  Vi g\[ODoubleDot]r ett  viktigt antagande: ",
  StyleBox["Det betyder att ett fordon som n\[ARing]r en korsning m\[ARing]ste \
 forts\[ADoubleDot]tta genom trafiksystemet. Ett positivt v\[ADoubleDot]rde p\
 \[ARing] fl\[ODoubleDot]det flyter i pilens riktning och ett negativt fl\
-\[ODoubleDot]de flyter i motsatt riktning.\n\n",
+\[ODoubleDot]de flyter i motsatt riktning.\n",
   FontVariations->{"CompatibilityType"->0}]
 }], "Text",
  CellChangeTimes->{{3.716807014032876*^9, 3.716807205913571*^9}, {
@@ -85,14 +86,9 @@ forts\[ADoubleDot]tta genom trafiksystemet. Ett positivt v\[ADoubleDot]rde p\
    3.778831476452503*^9}, {3.77883151475746*^9, 3.7788315563478327`*^9}, {
    3.778831598410747*^9, 3.778831632976728*^9}, {3.810271775407031*^9, 
    3.810271839330023*^9}, {3.8102726249923067`*^9, 3.810272626110387*^9}, 
-   3.811315057494445*^9},ExpressionUUID->"fa5e4783-91a5-4045-93d8-\
+   3.811315057494445*^9, {3.81141083352739*^9, 
+   3.811410836852208*^9}},ExpressionUUID->"fa5e4783-91a5-4045-93d8-\
 bf0b0dfbc677"],
-
-Cell[TextData[StyleBox["Uppgift",
- FontWeight->"Bold"]], "Text",
- CellChangeTimes->{{3.778831638498991*^9, 
-  3.7788316488376207`*^9}},ExpressionUUID->"a384eab7-a9d0-4e69-a0e5-\
-3d41bc1d3e13"],
 
 Cell["\<\
 a) \[CapitalADoubleDot]r v\[ARing]rt antagande om att fl\[ODoubleDot]det \
@@ -107,9 +103,9 @@ d622cac7afd3"],
 Cell[TextData[{
  "Studera v\[ADoubleDot]gssystemet i figur 1. Siffrorna anger trafikfl\
 \[ODoubleDot]dena i fordon per timme. Alla v\[ADoubleDot]gar \[ADoubleDot]r \
-enkelriktade och trafiken f\[ODoubleDot]ljer pilarnas riktning.\nb) St\
-\[ADoubleDot]ll upp ekvationssystemet.\nc) Best\[ADoubleDot]m trafikfl\
-\[ODoubleDot]det f\[ODoubleDot]r v\[ADoubleDot]gsystemet.\nd) Om trafikfl\
+enkelriktade och trafiken f\[ODoubleDot]ljer pilarnas riktning.\nc) St\
+\[ADoubleDot]ll upp ekvationssystemet.\nd) Best\[ADoubleDot]m trafikfl\
+\[ODoubleDot]det f\[ODoubleDot]r v\[ADoubleDot]gsystemet.\ne) Om trafikfl\
 \[ODoubleDot]det f\[ODoubleDot]r en av ",
  StyleBox["x, y, z",
   FontSlant->"Italic"],
@@ -124,7 +120,8 @@ andra v\[ADoubleDot]garna? "
   3.7168073463539534`*^9, 3.716807374809083*^9}, {3.7480722656590595`*^9, 
   3.7480722921637993`*^9}, {3.810272043947898*^9, 3.810272124929419*^9}, {
   3.810272156492778*^9, 3.810272197702285*^9}, {3.810272384416522*^9, 
-  3.810272494394339*^9}},ExpressionUUID->"1c5442fc-d478-4021-b74b-\
+  3.810272494394339*^9}, {3.811411692640625*^9, 
+  3.8114116950222197`*^9}},ExpressionUUID->"1c5442fc-d478-4021-b74b-\
 5b5b6ee75795"],
 
 Cell[BoxData[Cell[GraphicsData["PDF", "\<\
@@ -762,33 +759,43 @@ figur 1. Diagram av v\[ADoubleDot]gsystem i Kumasi, Ghana (efter Adu et al. \
   3.8113158838130007`*^9},ExpressionUUID->"b3f2059b-b1c3-4d61-aab7-\
 fe3f5fe4502e"],
 
-Cell[TextData[StyleBox["SVAR", "Chapter"]], "Text",
+Cell[TextData[StyleBox["Svar", "Subtitle"]], "Text",
+ CellFrame->{{0, 0}, {0, 0.5}},
  CellChangeTimes->{{3.811316516292529*^9, 3.811316566288748*^9}, {
   3.811316608566338*^9, 3.811316681619183*^9}, {3.811316749194336*^9, 
-  3.811316760023201*^9}},ExpressionUUID->"08691bd7-1e89-4b84-bb11-\
+  3.811316760023201*^9}, {3.811410398105541*^9, 
+  3.811410399064643*^9}},ExpressionUUID->"08691bd7-1e89-4b84-bb11-\
 d136310423aa"],
 
 Cell[TextData[{
  StyleBox["A- \[CapitalADoubleDot]r v\[ARing]rt antagande om att fl\
 \[ODoubleDot]det bevaras giltigt? N\[ADoubleDot]r kan antagandet vara \
 felaktigt?", "Subsubsection"],
- "\n\nAntagandet \[ADoubleDot]r gilltig i de flesta fall, de enstaka fall som \
-kan hindra att olyckor exempelvis med detta kommer enbart p\[ARing]verka f\
-\[ODoubleDot]rs\[ADoubleDot]ningar men inga total stop, eftersom foirdon \
-kommer tas bort till slut s\[ARing] att andra foroden kan paserra. \n\n"
+ "\nAntagandet \[ADoubleDot]r gilltigt i de flesta fallen, de enstaka fall \
+som kan hindra att olyckor exempelvis med detta kommer enbart p\[ARing]verka \
+f\[ODoubleDot]rseningar men inga total stop, eftersom fordon kommer tas bort \
+till slut s\[ARing] att andra foroden kan passera. "
 }], "Text",
  CellChangeTimes->{{3.8113168069138403`*^9, 3.811316818948303*^9}, {
    3.8113246638463097`*^9, 3.811324676502265*^9}, {3.8113247496801033`*^9, 
-   3.811324859131472*^9}, 
-   3.8113249539479437`*^9},ExpressionUUID->"7edbf562-b406-4efe-9c61-\
+   3.811324859131472*^9}, 3.8113249539479437`*^9, {3.811410760146069*^9, 
+   3.811410765233446*^9}, {3.8114109110948057`*^9, 3.811410914224236*^9}, {
+   3.811411576731256*^9, 
+   3.811411611699231*^9}},ExpressionUUID->"7edbf562-b406-4efe-9c61-\
 e76be6929aaf"],
 
 Cell[TextData[StyleBox["B-Vilka andra f\[ODoubleDot]renklingar har vi \
-antagit?\n", "Subsubsection"]], "Text",
+antagit?", "Subsubsection"]], "Text",
  CellChangeTimes->{{3.811316841918977*^9, 3.811316844013711*^9}, {
-  3.811324862145372*^9, 
-  3.8113249483463373`*^9}},ExpressionUUID->"980880dc-7184-4048-8300-\
+   3.811324862145372*^9, 3.8113249483463373`*^9}, 
+   3.811411711710959*^9},ExpressionUUID->"980880dc-7184-4048-8300-\
 16ffe582c2ea"],
+
+Cell["F\[ODoubleDot]renklingar som har gjorts \[ADoubleDot]r att t.ex bilar \
+kan parkera. ", "Text",
+ CellChangeTimes->{{3.811411713767417*^9, 
+  3.811411762545375*^9}},ExpressionUUID->"1bc7000d-2f6e-41ee-883b-\
+d23fe5597fe4"],
 
 Cell[TextData[StyleBox["C-St\[ADoubleDot]ll upp ekvationsststemet", \
 "Subsubsection"]], "Text",
@@ -990,11 +997,13 @@ Cell[BoxData[
  CellChangeTimes->{3.811317846163066*^9, 3.8113255118502407`*^9},
  CellLabel->"Out[14]=",ExpressionUUID->"ec3d8b4a-cfee-481b-9d2f-47b2ab836fed"]
 }, Open  ]]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
 
-Cell["2. Kaniner", "Subsubsection",
+Cell["2. Kaniner", "Subtitle",
+ CellFrame->{{0, 0}, {0, 0.5}},
  CellChangeTimes->{{3.7168091784230614`*^9, 3.7168091876738615`*^9}, {
   3.778831712451449*^9, 3.778831713494961*^9}, {3.810272510417355*^9, 
   3.810272511279125*^9}, {3.8102725516933126`*^9, 
@@ -1094,17 +1103,26 @@ Cell[TextData[{
   3.717000173062549*^9}},ExpressionUUID->"4373f09c-5fdf-4ef0-9483-\
 74f2a7981fbe"],
 
-Cell[TextData[{
- "a) Ber\[ADoubleDot]kna talf\[ODoubleDot]ljden och rita en graf \
-\[ODoubleDot]ver den.\nb) Unders\[ODoubleDot]k talf\[ODoubleDot]ljden och \
-diskutera tillv\[ADoubleDot]xtakten.\nc) Vilka begr\[ADoubleDot]nsningar har \
-modellen?\nd) Hur kan man f\[ODoubleDot]rb\[ADoubleDot]ttra modellen?\n",
- StyleBox["SVAR\n", "Chapter"]
-}], "Text",
+Cell["\<\
+a) Ber\[ADoubleDot]kna talf\[ODoubleDot]ljden och rita en graf \
+\[ODoubleDot]ver den.
+b) Unders\[ODoubleDot]k talf\[ODoubleDot]ljden och diskutera tillv\
+\[ADoubleDot]xtakten.
+c) Vilka begr\[ADoubleDot]nsningar har modellen?
+d) Hur kan man f\[ODoubleDot]rb\[ADoubleDot]ttra modellen?\
+\>", "Text",
  CellChangeTimes->{{3.716999251027968*^9, 3.716999330913383*^9}, {
   3.716999414168685*^9, 3.716999560887114*^9}, {3.811318709420989*^9, 
-  3.811318725201414*^9}},ExpressionUUID->"b0f73050-6aa9-4242-9cdc-\
+  3.811318725201414*^9}, {3.811410333009901*^9, 
+  3.81141036212917*^9}},ExpressionUUID->"b0f73050-6aa9-4242-9cdc-\
 fdb88ebd1c63"],
+
+Cell[BoxData[
+ StyleBox["Svar", "Subtitle"]], "Input",
+ CellFrame->{{0, 0}, {0, 0.5}},
+ CellChangeTimes->{{3.811410342855961*^9, 
+  3.811410343256365*^9}},ExpressionUUID->"2a2fcd39-2206-4d07-ba4f-\
+28e50362a169"],
 
 Cell[TextData[{
  StyleBox["A-Ber\[ADoubleDot]kna talf\[ODoubleDot]ljden och rita en graf \
@@ -1290,16 +1308,17 @@ Cell[BoxData[""], "Input",
 Cell[TextData[{
  StyleBox["B-Unders\[ODoubleDot]k talf\[ODoubleDot]ljden och diskutera tillv\
 \[ADoubleDot]xtakten.", "Subsubsection"],
- "\nOvanst\[ARing]nde  funktion beskriver \[ODoubleDot]kningen av Kanin \
-Antalet med avseende p\[ARing] tid uttryckt genom enheten m\[ARing]nad.\n\
-Funktionen kan uttnjitas s\[ARing] att den visar exakta v\[ADoubleDot]rden \
-vid exakta tidpunkter.  \nFunktionen uttsyande tyder p\[ARing] att den liknar \
+ "\nOvanst\[ARing]nde  funktion beskriver \[ODoubleDot]kningen av antalete \
+kaniner med avseende p\[ARing] tid uttryckt genom enheten m\[ARing]nad.\n\
+Funktionen kan utnyttjas s\[ARing] att den visar exakta v\[ADoubleDot]rden \
+vid exakta tidpunkter.  \nFunktionen utseende tyder p\[ARing] att den liknar \
 en exponential funktion i dess tillv\[ADoubleDot]xt. "
 }], "Text",
  CellChangeTimes->{{3.8113215739669647`*^9, 3.811321578022482*^9}, {
   3.8113217602901917`*^9, 3.8113217604765472`*^9}, {3.81132179121029*^9, 
-  3.8113220175143023`*^9}, {3.81132206207891*^9, 
-  3.811322136417715*^9}},ExpressionUUID->"d69b319e-3495-4c1d-b3cd-\
+  3.8113220175143023`*^9}, {3.81132206207891*^9, 3.811322136417715*^9}, {
+  3.8114121871496687`*^9, 
+  3.8114122397029457`*^9}},ExpressionUUID->"d69b319e-3495-4c1d-b3cd-\
 db1b001e80dd"],
 
 Cell[CellGroupData[{
@@ -1337,32 +1356,33 @@ Cell[BoxData[
 Cell[TextData[{
  StyleBox["C- Villka begr\[ADoubleDot]nsningar har modellen? ", 
   "Subsubsection"],
- "\nModellen tar inte h\[ADoubleDot]nsyn till :1 kaniner d\[ODoubleDot]r,2 \
-lika/olika k\[ODoubleDot]n f\[ODoubleDot]tts. "
+ "\nModellen tar inte h\[ADoubleDot]nsyn till .1 att kaniner \
+d\[ODoubleDot]r,2. lika/olika k\[ODoubleDot]n f\[ODoubleDot]ds. "
 }], "Text",
  CellChangeTimes->{{3.8113226973881607`*^9, 3.8113227376006413`*^9}, {
   3.8113228399286823`*^9, 3.8113228414309*^9}, {3.811323128111224*^9, 
   3.8113231409891768`*^9}, {3.811323572839509*^9, 3.811323591117353*^9}, {
   3.8113236345031357`*^9, 3.811323697492034*^9}, {3.8113259177485*^9, 
-  3.811325919193309*^9}},ExpressionUUID->"5f6ce2e9-0be5-41ed-9491-\
+  3.811325919193309*^9}, {3.8114122544315977`*^9, 
+  3.81141227434303*^9}},ExpressionUUID->"5f6ce2e9-0be5-41ed-9491-\
 c428e873e3e6"],
 
 Cell[TextData[{
  StyleBox["D- Hur kan man f\[ODoubleDot]rb\[ADoubleDot]ttra modellen?", 
   "Subsubsection"],
- "\nEn modell kan utf\[ODoubleDot]rs som beskriver de olika faktorar som \
-orsaker minskningingen av Kanin Antalet. faktorer \
-s\[ARing]som(d\[ODoubleDot]dsfall,lika/olika k\[ODoubleDot]n mm ) "
+ "\nEn modell kan utf\[ODoubleDot]ras som beskriver de olika faktorar som \
+orsaker minskningingen av antalet kaniner. faktorer s\[ARing]som(d\
+\[ODoubleDot]dsfall,lika/olika k\[ODoubleDot]n mm ) "
 }], "Text",
  CellChangeTimes->{{3.811322796603511*^9, 3.811322835625947*^9}, {
-  3.811324505025066*^9, 
-  3.8113246466638403`*^9}},ExpressionUUID->"71e7fb8c-d22d-4212-a22b-\
+  3.811324505025066*^9, 3.8113246466638403`*^9}, {3.8114122804875603`*^9, 
+  3.811412291535462*^9}},ExpressionUUID->"71e7fb8c-d22d-4212-a22b-\
 25ebd45e9685"]
 }, Open  ]]
-}, Open  ]]
 },
-WindowSize->{Full, Full},
-WindowMargins->{{316, Automatic}, {Automatic, 50}},
+WindowSize->{1280, 1395},
+WindowMargins->{{Automatic, -2560}, {0, Automatic}},
+SpellingDictionaries->{"CorrectWords"->{"Uppgiften"}},
 FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (June 19, 2020)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"1ad7813d-e0e0-408a-b7aa-81f8c1969884"
@@ -1383,80 +1403,81 @@ Cell[CellGroupData[{
 Cell[817, 31, 457, 7, 67, "Section",ExpressionUUID->"b3b34a52-c2c9-4bd0-bf72-c573ccc37e37"],
 Cell[1277, 40, 792, 15, 127, "Text",ExpressionUUID->"85d833ea-34ff-4fd0-b2c4-a12502dddfc5"],
 Cell[CellGroupData[{
-Cell[2094, 59, 274, 4, 45, "Subsubsection",ExpressionUUID->"b72db7fd-eea8-464a-a8e9-b958a18bd4b1"],
-Cell[2371, 65, 1495, 23, 127, "Text",ExpressionUUID->"fa5e4783-91a5-4045-93d8-bf0b0dfbc677"],
-Cell[3869, 90, 192, 4, 35, "Text",ExpressionUUID->"a384eab7-a9d0-4e69-a0e5-3d41bc1d3e13"],
-Cell[4064, 96, 399, 8, 58, "Text",ExpressionUUID->"5178f887-24ee-4d85-beeb-d622cac7afd3"],
-Cell[4466, 106, 1088, 21, 104, "Text",ExpressionUUID->"1c5442fc-d478-4021-b74b-5b5b6ee75795"],
-Cell[5557, 129, 40219, 620, 364, "Input",ExpressionUUID->"3fe86b55-c8fa-4ad9-a026-faeb53ce1d48"],
-Cell[45779, 751, 154, 3, 30, "Input",ExpressionUUID->"92d19080-422e-40a7-a0c7-b7630cf3bd50"],
-Cell[45936, 756, 213, 6, 35, "Text",ExpressionUUID->"b3f2059b-b1c3-4d61-aab7-fe3f5fe4502e"],
-Cell[46152, 764, 272, 4, 59, "Text",ExpressionUUID->"08691bd7-1e89-4b84-bb11-d136310423aa"],
-Cell[46427, 770, 760, 13, 155, "Text",ExpressionUUID->"7edbf562-b406-4efe-9c61-e76be6929aaf"],
-Cell[47190, 785, 288, 5, 68, "Text",ExpressionUUID->"980880dc-7184-4048-8300-16ffe582c2ea"],
-Cell[47481, 792, 198, 4, 40, "Text",ExpressionUUID->"0eaa5828-3d2b-4fe7-94c6-4a72b8d9b63d"],
-Cell[47682, 798, 552, 13, 94, "Input",ExpressionUUID->"ce99cb68-ebe9-4c9e-be5b-71371d451e64"],
-Cell[48237, 813, 252, 4, 40, "Text",ExpressionUUID->"8eafd827-d4b0-448d-898c-8dcf760b6648"],
+Cell[2094, 59, 308, 5, 51, "Subsubsection",ExpressionUUID->"b72db7fd-eea8-464a-a8e9-b958a18bd4b1"],
+Cell[2405, 66, 1542, 24, 127, "Text",ExpressionUUID->"fa5e4783-91a5-4045-93d8-bf0b0dfbc677"],
+Cell[3950, 92, 399, 8, 58, "Text",ExpressionUUID->"5178f887-24ee-4d85-beeb-d622cac7afd3"],
+Cell[4352, 102, 1139, 22, 104, "Text",ExpressionUUID->"1c5442fc-d478-4021-b74b-5b5b6ee75795"],
+Cell[5494, 126, 40219, 620, 364, "Input",ExpressionUUID->"3fe86b55-c8fa-4ad9-a026-faeb53ce1d48"],
+Cell[45716, 748, 154, 3, 30, "Input",ExpressionUUID->"92d19080-422e-40a7-a0c7-b7630cf3bd50"],
+Cell[45873, 753, 213, 6, 35, "Text",ExpressionUUID->"b3f2059b-b1c3-4d61-aab7-fe3f5fe4502e"],
+Cell[46089, 761, 354, 6, 55, "Text",ExpressionUUID->"08691bd7-1e89-4b84-bb11-d136310423aa"],
+Cell[46446, 769, 892, 15, 86, "Text",ExpressionUUID->"7edbf562-b406-4efe-9c61-e76be6929aaf"],
+Cell[47341, 786, 310, 5, 40, "Text",ExpressionUUID->"980880dc-7184-4048-8300-16ffe582c2ea"],
+Cell[47654, 793, 227, 4, 35, "Text",ExpressionUUID->"1bc7000d-2f6e-41ee-883b-d23fe5597fe4"],
+Cell[47884, 799, 198, 4, 40, "Text",ExpressionUUID->"0eaa5828-3d2b-4fe7-94c6-4a72b8d9b63d"],
+Cell[48085, 805, 552, 13, 94, "Input",ExpressionUUID->"ce99cb68-ebe9-4c9e-be5b-71371d451e64"],
+Cell[48640, 820, 252, 4, 40, "Text",ExpressionUUID->"8eafd827-d4b0-448d-898c-8dcf760b6648"],
 Cell[CellGroupData[{
-Cell[48514, 821, 612, 16, 30, "Input",ExpressionUUID->"f293d1c5-e4df-40be-a756-ab7c10dbcf03"],
-Cell[49129, 839, 371, 9, 34, "Output",ExpressionUUID->"b507e04a-63ec-4622-8697-4768523f6c2d"]
+Cell[48917, 828, 612, 16, 30, "Input",ExpressionUUID->"f293d1c5-e4df-40be-a756-ab7c10dbcf03"],
+Cell[49532, 846, 371, 9, 34, "Output",ExpressionUUID->"b507e04a-63ec-4622-8697-4768523f6c2d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[49537, 853, 158, 3, 30, "Input",ExpressionUUID->"c92d0341-6f45-4e16-baa9-7870f270326e"],
-Cell[49698, 858, 390, 10, 34, "Output",ExpressionUUID->"a3b3dd72-96ae-44dc-8801-594b6d1feffe"]
+Cell[49940, 860, 158, 3, 30, "Input",ExpressionUUID->"c92d0341-6f45-4e16-baa9-7870f270326e"],
+Cell[50101, 865, 390, 10, 34, "Output",ExpressionUUID->"a3b3dd72-96ae-44dc-8801-594b6d1feffe"]
 }, Open  ]],
-Cell[50103, 871, 421, 6, 40, "Text",ExpressionUUID->"e4dc4321-13c1-49e3-839f-0f90de7d5713"],
+Cell[50506, 878, 421, 6, 40, "Text",ExpressionUUID->"e4dc4321-13c1-49e3-839f-0f90de7d5713"],
 Cell[CellGroupData[{
-Cell[50549, 881, 257, 4, 52, "Input",ExpressionUUID->"866fb464-060c-4607-94b6-dbf492cc1f0b"],
-Cell[50809, 887, 172, 2, 34, "Output",ExpressionUUID->"138f8652-d8e5-4ba9-9e79-f3e976a19ceb"],
-Cell[50984, 891, 299, 6, 34, "Output",ExpressionUUID->"e8abb3cc-2deb-4b94-89e8-b41ec11b92e8"]
+Cell[50952, 888, 257, 4, 52, "Input",ExpressionUUID->"866fb464-060c-4607-94b6-dbf492cc1f0b"],
+Cell[51212, 894, 172, 2, 34, "Output",ExpressionUUID->"138f8652-d8e5-4ba9-9e79-f3e976a19ceb"],
+Cell[51387, 898, 299, 6, 34, "Output",ExpressionUUID->"e8abb3cc-2deb-4b94-89e8-b41ec11b92e8"]
 }, Open  ]],
-Cell[51298, 900, 202, 3, 30, "Input",ExpressionUUID->"8c88fae3-3299-4ab0-b1aa-4048b6eb15bd"],
+Cell[51701, 907, 202, 3, 30, "Input",ExpressionUUID->"8c88fae3-3299-4ab0-b1aa-4048b6eb15bd"],
 Cell[CellGroupData[{
-Cell[51525, 907, 197, 3, 30, "Input",ExpressionUUID->"1def4450-a74a-48aa-8eec-2c222bfeb159"],
-Cell[51725, 912, 152, 2, 34, "Output",ExpressionUUID->"0ad0126a-07ef-43e9-a4ca-48ea008cd6f5"]
+Cell[51928, 914, 197, 3, 30, "Input",ExpressionUUID->"1def4450-a74a-48aa-8eec-2c222bfeb159"],
+Cell[52128, 919, 152, 2, 34, "Output",ExpressionUUID->"0ad0126a-07ef-43e9-a4ca-48ea008cd6f5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[51914, 919, 203, 3, 30, "Input",ExpressionUUID->"10a0ba0e-7286-43bc-afc8-f2fe6b7bffba"],
-Cell[52120, 924, 318, 7, 34, "Output",ExpressionUUID->"54960fde-f590-4247-b359-6b6f5c70fc5f"]
+Cell[52317, 926, 203, 3, 30, "Input",ExpressionUUID->"10a0ba0e-7286-43bc-afc8-f2fe6b7bffba"],
+Cell[52523, 931, 318, 7, 34, "Output",ExpressionUUID->"54960fde-f590-4247-b359-6b6f5c70fc5f"]
 }, Open  ]],
-Cell[52453, 934, 229, 4, 30, "Input",ExpressionUUID->"205816f7-9b3d-401f-8235-7aaf31adb180"],
+Cell[52856, 941, 229, 4, 30, "Input",ExpressionUUID->"205816f7-9b3d-401f-8235-7aaf31adb180"],
 Cell[CellGroupData[{
-Cell[52707, 942, 254, 4, 52, "Input",ExpressionUUID->"33bd73d5-18d6-42cf-a442-96757d6792dc"],
-Cell[52964, 948, 200, 3, 34, "Output",ExpressionUUID->"383a44ff-db56-4460-bc6a-414eb2b911b5"],
-Cell[53167, 953, 438, 11, 34, "Output",ExpressionUUID->"30d16bab-7a21-42fe-9523-57254b7bc238"]
+Cell[53110, 949, 254, 4, 52, "Input",ExpressionUUID->"33bd73d5-18d6-42cf-a442-96757d6792dc"],
+Cell[53367, 955, 200, 3, 34, "Output",ExpressionUUID->"383a44ff-db56-4460-bc6a-414eb2b911b5"],
+Cell[53570, 960, 438, 11, 34, "Output",ExpressionUUID->"30d16bab-7a21-42fe-9523-57254b7bc238"]
 }, Open  ]],
-Cell[53620, 967, 236, 4, 30, "Input",ExpressionUUID->"28ed3ab7-7001-4cfd-b86b-300bca78f674"],
+Cell[54023, 974, 236, 4, 30, "Input",ExpressionUUID->"28ed3ab7-7001-4cfd-b86b-300bca78f674"],
 Cell[CellGroupData[{
-Cell[53881, 975, 204, 3, 30, "Input",ExpressionUUID->"a84de578-6a6c-4eff-b3d5-a65bd9069af5"],
-Cell[54088, 980, 394, 10, 34, "Output",ExpressionUUID->"ec3d8b4a-cfee-481b-9d2f-47b2ab836fed"]
+Cell[54284, 982, 204, 3, 30, "Input",ExpressionUUID->"a84de578-6a6c-4eff-b3d5-a65bd9069af5"],
+Cell[54491, 987, 394, 10, 34, "Output",ExpressionUUID->"ec3d8b4a-cfee-481b-9d2f-47b2ab836fed"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[54531, 996, 311, 5, 45, "Subsubsection",ExpressionUUID->"045c51a1-b154-47e7-98fb-397a4441ab97"],
-Cell[54845, 1003, 1552, 31, 81, "Text",ExpressionUUID->"62ada6f1-500f-4441-8637-402b60c24b3e"],
-Cell[56400, 1036, 424, 13, 34, "Text",ExpressionUUID->"8d7240a1-15f9-46e0-b144-e227af853222"],
-Cell[56827, 1051, 1540, 43, 35, "Text",ExpressionUUID->"4373f09c-5fdf-4ef0-9483-74f2a7981fbe"],
-Cell[58370, 1096, 575, 10, 200, "Text",ExpressionUUID->"b0f73050-6aa9-4242-9cdc-fdb88ebd1c63"],
-Cell[58948, 1108, 1737, 50, 178, "Text",ExpressionUUID->"02808b1b-dc8e-4137-bd4c-666be04f7767"],
-Cell[60688, 1160, 895, 20, 73, "Input",ExpressionUUID->"5eef423d-2d6a-496c-b5e7-dde0ae52cd0a"],
+Cell[54946, 1004, 338, 6, 62, "Subtitle",ExpressionUUID->"045c51a1-b154-47e7-98fb-397a4441ab97"],
+Cell[55287, 1012, 1552, 31, 81, "Text",ExpressionUUID->"62ada6f1-500f-4441-8637-402b60c24b3e"],
+Cell[56842, 1045, 424, 13, 34, "Text",ExpressionUUID->"8d7240a1-15f9-46e0-b144-e227af853222"],
+Cell[57269, 1060, 1540, 43, 35, "Text",ExpressionUUID->"4373f09c-5fdf-4ef0-9483-74f2a7981fbe"],
+Cell[58812, 1105, 577, 12, 104, "Text",ExpressionUUID->"b0f73050-6aa9-4242-9cdc-fdb88ebd1c63"],
+Cell[59392, 1119, 212, 5, 53, "Input",ExpressionUUID->"2a2fcd39-2206-4d07-ba4f-28e50362a169"],
+Cell[59607, 1126, 1737, 50, 178, "Text",ExpressionUUID->"02808b1b-dc8e-4137-bd4c-666be04f7767"],
+Cell[61347, 1178, 895, 20, 73, "Input",ExpressionUUID->"5eef423d-2d6a-496c-b5e7-dde0ae52cd0a"],
 Cell[CellGroupData[{
-Cell[61608, 1184, 601, 12, 30, "Input",ExpressionUUID->"6e68a668-a253-4017-a32f-5e5cae6d216c"],
-Cell[62212, 1198, 795, 13, 56, "Output",ExpressionUUID->"aa206699-3163-4f7f-b071-5ae823527089"]
+Cell[62267, 1202, 601, 12, 30, "Input",ExpressionUUID->"6e68a668-a253-4017-a32f-5e5cae6d216c"],
+Cell[62871, 1216, 795, 13, 56, "Output",ExpressionUUID->"aa206699-3163-4f7f-b071-5ae823527089"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[63044, 1216, 911, 21, 30, "Input",ExpressionUUID->"ddc332c7-d0be-4033-a0bf-c30aedbc08fe"],
-Cell[63958, 1239, 1719, 42, 227, "Output",ExpressionUUID->"4b26131f-a973-4c0e-b75b-3a16f63538c9"]
+Cell[63703, 1234, 911, 21, 30, "Input",ExpressionUUID->"ddc332c7-d0be-4033-a0bf-c30aedbc08fe"],
+Cell[64617, 1257, 1719, 42, 227, "Output",ExpressionUUID->"4b26131f-a973-4c0e-b75b-3a16f63538c9"]
 }, Open  ]],
-Cell[65692, 1284, 154, 3, 30, "Input",ExpressionUUID->"0f4b9e90-77a3-4e15-86af-78dac6a1afc7"],
-Cell[65849, 1289, 784, 13, 109, "Text",ExpressionUUID->"d69b319e-3495-4c1d-b3cd-db1b001e80dd"],
+Cell[66351, 1302, 154, 3, 30, "Input",ExpressionUUID->"0f4b9e90-77a3-4e15-86af-78dac6a1afc7"],
+Cell[66508, 1307, 839, 14, 109, "Text",ExpressionUUID->"d69b319e-3495-4c1d-b3cd-db1b001e80dd"],
 Cell[CellGroupData[{
-Cell[66658, 1306, 551, 11, 30, "Input",ExpressionUUID->"c2de3093-c7bb-4d0c-bf87-b560a9dc2c7e"],
-Cell[67212, 1319, 817, 14, 83, "Output",ExpressionUUID->"b4c52637-2582-4071-941a-af19c795871d"]
+Cell[67372, 1325, 551, 11, 30, "Input",ExpressionUUID->"c2de3093-c7bb-4d0c-bf87-b560a9dc2c7e"],
+Cell[67926, 1338, 817, 14, 60, "Output",ExpressionUUID->"b4c52637-2582-4071-941a-af19c795871d"]
 }, Open  ]],
-Cell[68044, 1336, 608, 11, 63, "Text",ExpressionUUID->"5f6ce2e9-0be5-41ed-9491-c428e873e3e6"],
-Cell[68655, 1349, 492, 10, 63, "Text",ExpressionUUID->"71e7fb8c-d22d-4212-a22b-25ebd45e9685"]
-}, Open  ]]
+Cell[68758, 1355, 662, 12, 63, "Text",ExpressionUUID->"5f6ce2e9-0be5-41ed-9491-c428e873e3e6"],
+Cell[69423, 1369, 543, 10, 63, "Text",ExpressionUUID->"71e7fb8c-d22d-4212-a22b-25ebd45e9685"]
 }, Open  ]]
 }
 ]
